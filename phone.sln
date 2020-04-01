@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "E:\...\Phone-News\", ".", "{F11CC398-F4FD-4EF0-8456-99CD89E3C764}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/phone"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\phone\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\phone\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/phone"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\phone\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\phone\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "11156"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F11CC398-F4FD-4EF0-8456-99CD89E3C764}.Debug|.NET.ActiveCfg = Debug|.NET
+		{F11CC398-F4FD-4EF0-8456-99CD89E3C764}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
