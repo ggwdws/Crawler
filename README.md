@@ -26,4 +26,5 @@ Run Backend.py in server with 8081 port open (in&out)
 ```
 python3 Backend.py&
 ```
-Then open the web page: [this page](http://xxdkb.f3322.org:2777/news/news.aspx)
+
+Open the web page: [this page](http://xxdkb.f3322.org:2777/news/news.aspx)
